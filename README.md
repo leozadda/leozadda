@@ -1,4 +1,6 @@
-# Hi, I'm Leo, a Front-End Engineer 🫶🏾
+# Howdy, I'm Leo, a Front-End Engineer 🫶🏾
+###### leofeb12@yahoo.com 
+###### (817) 798 7103
 
 ### What am I currently learning? 🧠
 - TypeScript for React JS
