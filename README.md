@@ -1,6 +1,14 @@
-### Hi, I'm Leo, a Front-End Developer 👋
+### Hi, I'm Leo, a Front-End Engineer 🫶🏾
 
-#### Look at my personal projects!
+###### I'm currently learning TypeScript for React JS
+###### Disclaimer: I may seeen inactive but that's not the case, I have been uploading my code on other platforms, I recently decided to move back to GitHub.
+
+# Qualifications?
+- Bachelor's in Computer Science
+- Previously employed to develop a Virtual Reality Simulation Game and a React-based Web Application
+- Based in the United States
+
+#### Personal Projects?
 
 # NFT shop simulator using React and Stripe
 
