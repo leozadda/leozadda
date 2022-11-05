@@ -1,4 +1,4 @@
-### Hi, I'm Leo, a Front-End Engineer 🫶🏾
+# Hi, I'm Leo, a Front-End Engineer 🫶🏾
 
 ###### I'm currently learning TypeScript for React JS
 ###### Disclaimer: I may seeen inactive but that's not the case, I have been uploading my code on other platforms, I recently decided to move back to GitHub.
