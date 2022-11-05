@@ -3,7 +3,7 @@
 ##### leofeb12@yahoo.com 
 ##### (817) 798 7103
 
-### What am I currently learning? 🧠
+# What am I currently learning? 🧠
 - TypeScript for React JS
 - Asynchrounous programming
 - JavaScript Animation libraries
