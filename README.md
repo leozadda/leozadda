@@ -1,8 +1,8 @@
 ### Hi, I'm Leo, a Front-End Developer 👋
 
-## Take I look at my personal projects:
+#### Look at my personal projects!
 
-# My website displays my NFT shop simulator using React and Stripe
+# NFT shop simulator using React and Stripe
 
 <img width="1440" alt="Screen Shot 2022-11-05 at 2 39 02 PM" src="https://user-images.githubusercontent.com/74736115/200138101-0f061130-b59c-4bdb-a116-2e45c4aa4e17.png">
 
