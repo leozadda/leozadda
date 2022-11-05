@@ -4,11 +4,12 @@
 ##### (817) 798 7103
 
 # Skills?
-- HTML5
-- CSS3
+- HTML 5
+- CSS 3
 - Vanilla JavaScript
-- React JS library
-- Python, Spanish (Fluent)
+- React JavaScript library
+- Python
+- Spanish (Fluent)
 - C++
 - Amazon Web Services S3
 - Google Cloud Platform
