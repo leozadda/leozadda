@@ -3,6 +3,16 @@
 ##### leofeb12@yahoo.com 
 ##### (817) 798 7103
 
+# Skills?
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- React JS library
+- Python, Spanish (Fluent)
+- C++
+- Amazon Web Services S3
+- Google Cloud Platform
+
 # What am I currently learning? 🧠
 - TypeScript for React JS
 - Asynchrounous programming
@@ -15,7 +25,6 @@ I may seeen inactive but that's not the case, I have been uploading my code on o
 - Bachelor's in Computer Science
 - Previously employed to develop a Virtual Reality Simulation Game and a React-based Web Application
 - Been working on User Interfaces for 8 years
-- Skills: HTML5, CSS3, Vanilla JavaScript, React JS library, Python, Spanish (Fluent), C++, AWS S3, Google Cloud Platform
 
 # Personal Projects? 💿
 
