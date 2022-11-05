@@ -8,16 +8,16 @@
 - Previously employed to develop a Virtual Reality Simulation Game and a React-based Web Application
 - Based in the United States
 
-#### Personal Projects?
+# Personal Projects?
 
-# NFT shop simulator using React and Stripe
+## NFT shop simulator using React and Stripe
 
 <img width="1440" alt="Screen Shot 2022-11-05 at 2 39 02 PM" src="https://user-images.githubusercontent.com/74736115/200138101-0f061130-b59c-4bdb-a116-2e45c4aa4e17.png">
 
-# The webpages use mobile friendly css grid and each product is a component
+### The webpages use mobile friendly css grid and each product is a component
 <img width="1440" alt="Screen Shot 2022-11-05 at 2 39 13 PM" src="https://user-images.githubusercontent.com/74736115/200138102-c1db548e-d9c5-4cc8-a78c-96b5a117e744.png">
 
-# The pages are indexed using React Router and clicking on a product takes you to stripe checkout
+### The pages are indexed using React Router and clicking on a product takes you to stripe checkout
 <img width="1440" alt="Screen Shot 2022-11-05 at 2 39 30 PM" src="https://user-images.githubusercontent.com/74736115/200138103-d314986d-0f6b-4d28-bd25-0cacd465c065.png">
 
 <!--
