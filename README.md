@@ -1,54 +1,80 @@
-# Howdy! I'm Leo.
-## Front-End Engineer 🫶🏾
-##### leofeb12@yahoo.com 
-##### (817) 798 7103
+# Hello! I'm Leo Quezada 👋
+## Lead Full-Stack Developer & Product Strategist
 
-# Skills?
-- HTML 5
-- CSS 3
-- Vanilla JavaScript
-- React JavaScript library
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/leo-quezada)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:leofeb12@yahoo.com)
+
+## 💼 Professional Experience
+
+Currently leading full-stack development at **B-L-U-E** where I build SaaS solutions with modern tech stacks:
+- Architecting RESTful APIs and robust PostgreSQL database schemas
+- Developing React/TypeScript applications with JWT auth and payment integrations
+- Implementing cloud infrastructure with AWS (EC2, Amplify)
+- Integrating AI capabilities through custom LLM APIs
+
+Previously worked at **Software Decisions Inc.** where I built Chrome extensions, automated processes, and delivered client solutions with a 95% satisfaction rate.
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React (6+ years)
+- TypeScript
+- JavaScript
+- HTML5/CSS3
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+- PostgreSQL
+- MongoDB
+
+### DevOps & Cloud
+- AWS (EC2, Amplify)
+- Docker
+- CI/CD
+
+### Additional Skills
 - Python
-- Spanish (Fluent)
 - C++
-- Amazon Web Services S3
-- Google Cloud Platform
+- Spanish (Fluent)
 
-# What am I currently learning? 🧠
-- TypeScript for React JS
-- Asynchrounous programming
-- JavaScript Animation libraries
+## 🚀 Notable Projects
 
-# Qualifications? 👨🏽‍💼
-- Bachelor's in Computer Science
-- Previously employed to develop a Virtual Reality Simulation Game and a React-based Web Application
-- Been working on User Interfaces for 8 years
+### 📊 Analytics Dashboard
+Built with **MERN stack** (MongoDB, Express, React, Node.js)
+- Real-time user behavior tracking and visualization
+- Custom API endpoints for data storage and retrieval
+- Interactive dashboards with responsive design
 
-# Personal Projects? 💿
+### 🛒 E-Commerce Platform
+Built with **React** and **Shopify GraphQL API**
+- Mobile-first design with accessibility compliance
+- Optimized performance for higher conversion rates
+- Strategic cart logic for upselling and reducing bounce rates
 
-### NFT shop simulator using React and Stripe  🧑🏽‍🎨
+### 🎨 NFT Shop Simulator
+Built with **React** and **Stripe**
+- Component-based product architecture
+- Mobile-friendly CSS grid implementation
+- React Router for seamless page navigation
+- Stripe integration for payment processing
 
-<img width="1440" alt="Screen Shot 2022-11-05 at 2 39 02 PM" src="https://user-images.githubusercontent.com/74736115/200138101-0f061130-b59c-4bdb-a116-2e45c4aa4e17.png">
+## 🎓 Education
+- **Bachelor of Science in Computer Science** - University of Houston
 
-(The webpages use mobile friendly css grid and each product is a component)
+## 🌱 Currently Learning
+- Advanced TypeScript patterns for React
+- Asynchronous programming techniques
+- Real-time data visualization libraries
+- AI/ML integration in web applications
 
-<img width="1440" alt="Screen Shot 2022-11-05 at 2 39 13 PM" src="https://user-images.githubusercontent.com/74736115/200138102-c1db548e-d9c5-4cc8-a78c-96b5a117e744.png">
- 
-(The pages are indexed using React Router and clicking on a product takes you to stripe checkout)
-
-<img width="1440" alt="Screen Shot 2022-11-05 at 2 39 30 PM" src="https://user-images.githubusercontent.com/74736115/200138103-d314986d-0f6b-4d28-bd25-0cacd465c065.png">
+## 📫 Let's Connect!
+- Email: leofeb12@yahoo.com
+- LinkedIn: [linkedin.com/in/leo-quezada](https://www.linkedin.com/in/leo-quezada)
+- Phone: (817) 798-7103
 
 <!--
-**leozadda/leozadda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**leozadda/leozadda** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
