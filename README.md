@@ -1,4 +1,4 @@
-# Hello! I'm Leo Quezada 👋
+# Hello! I'm Leo 👋
 ## Lead Full-Stack Developer & Product Strategist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/leo-quezada)
